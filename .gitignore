@@ -1,0 +1,8 @@
+# Folder dependencies yang di-install oleh Composer
+/vendor
+
+# File konfigurasi lingkungan (Environment) yang berisi data sensitif
+.env
+
+# Folder untuk file cache, log, dan session
+/writable
